@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+ipython
+jupyter
+jupyterlab
+tables
+pysimplegui
