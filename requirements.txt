@@ -6,3 +6,5 @@ jupyter
 jupyterlab
 tables
 pysimplegui
+opencv-python
+pyinstaller
